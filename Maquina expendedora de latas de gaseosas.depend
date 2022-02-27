@@ -1,0 +1,40 @@
+# depslib dependency file v1.0
+1605148408 source:c:\users\usuario\desktop\maquina expendedora de latas de gaseosas\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"windows.h"
+
+1605148725 c:\users\usuario\desktop\maquina expendedora de latas de gaseosas\libreria.h
+
+1605209496 source:c:\users\usuario\desktop\maquina expendedora de latas de gaseosas\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1606005783 source:c:\users\usuario\desktop\código\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"windows.h"
+
+1606008771 c:\users\usuario\desktop\código\libreria.h
+
+1606005902 source:c:\users\usuario\desktop\código\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
+1606239729 source:c:\users\usuario\desktop\máquina expendedora de latas de gaseosas\código\main.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+	"windows.h"
+
+1606008837 c:\users\usuario\desktop\máquina expendedora de latas de gaseosas\código\libreria.h
+
+1606240719 source:c:\users\usuario\desktop\máquina expendedora de latas de gaseosas\código\libreria.c
+	<stdio.h>
+	<stdlib.h>
+	"libreria.h"
+
